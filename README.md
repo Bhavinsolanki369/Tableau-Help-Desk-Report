@@ -8,3 +8,5 @@ Key Observations:
 2.	A ticket remains open for Avg. 19 days. We need to bring it down to 13 days accounting complexity involved.
 3.	Roughly 72% of tickets are still marked open. It is very important to look at this at earliest.
 4.	On satisfaction score 40% tickets are marked Unknown. This can be attributed to Ignorance or Unsatisfied. Appropriate score can give precise picture, where as if Unknown means Unsatisfied then we have more than 50% tickets marked Unsatisfied. Which is not good for our Organization.
+
+Report Link: https://public.tableau.com/app/profile/bhavin.solanki369/viz/helpdeskreport/HELPDESKREPORT2020
